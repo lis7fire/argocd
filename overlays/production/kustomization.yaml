@@ -7,5 +7,6 @@ commonAnnotations:
 namespace: prodd
 resources:
 - ../../base
+- ./namespace.yaml
 patchesStrategicMerge:
 - deployment.yaml
