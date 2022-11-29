@@ -5,7 +5,7 @@ metadata:
 spec:
   selector:
     deployment: hello
-  type: clusterIP
+  type: ClusterIP
   ports:
   - protocol: TCP
     port: 8666
