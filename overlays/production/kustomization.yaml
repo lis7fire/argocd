@@ -4,6 +4,7 @@ commonLabels:
   org: acmeCorporation
 commonAnnotations:
   note: Hello, I am production!
+namespace: prodd
 resources:
 - ../../base
 patchesStrategicMerge:
